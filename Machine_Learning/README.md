@@ -1,3 +1,8 @@
+<p align="center">
+<img src ="https://th.bing.com/th/id/R.c0d0115876c3111513093a4b285baba1?rik=spsEbHYvpkKlvQ&pid=ImgRaw&r=0">
+</p>
+---
+
 ## Machine Learning Exercises
 
 - This repository contains three machine learning exercises, each in its respective folder, along with the necessary datasets and instructions. The exercises cover regression, classification with Random Forest, and image classification.
