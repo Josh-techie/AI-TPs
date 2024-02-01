@@ -51,7 +51,8 @@ class TicTacToeGUI:
                     best_value = move_value
                     best_move = i
 
-                self.board[i] = ' '  # Reset the cell for further exploration
+                self.board[i] = ' '
+                # Reset the cell for further exploration
 
         return best_move
 
