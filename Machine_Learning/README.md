@@ -1,6 +1,7 @@
 <p align="center">
 <img src ="https://th.bing.com/th/id/R.c0d0115876c3111513093a4b285baba1?rik=spsEbHYvpkKlvQ&pid=ImgRaw&r=0">
 </p>
+
 ---
 
 ## Machine Learning Exercises
