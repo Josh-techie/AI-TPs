@@ -41,7 +41,7 @@ Note: Ofc, besides there's other advantages such as `Integration with Google Dri
 
 - [Exercise 1: Linear Regression](./Exercice_1/)
 - [Exercise 2: Classification with Random Forest](./Exercice_2/)
-- [Exercise 3: Image Classification]()
+- [Exercise 3: Image Classification](./Exercice_3/)
 
 ---
 
