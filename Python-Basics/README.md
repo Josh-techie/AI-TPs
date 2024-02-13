@@ -2,20 +2,24 @@
 <img src ="https://th.bing.com/th/id/OIP.dJToM1TiZiJA0GYwzDHwjQHaHY?rs=1&pid=ImgDetMain">
 </p>
 
-# About:
+# Python Basics Learning Repository
 
-- Here, I'll be sharing my some exercice files practicing python basics
+This repository is dedicated to learning the basics of Python. The exercises are contained in the file [Assignment_1.ipynb](./Assignment_1.ipynb). I'm using Google Colab for these exercises to familiarize myself with it, as I'll be using it extensively in future for machine learning tasks and model training. 
+
+Why Google Colab? It provides a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
+
+The [Python Notes](./Python Notes.pdf) included in this repository are my personal notes that I took while learning Python.
 
 ---
 
 ## Author
 
-- [`@Josh-techie`]() | Software Engineer Student
+- [`@Josh-techie`](https://github.com/Josh-techie) | Software Engineer Student
 
   > Reach out to me if you need any help or have any questions.
 
   <a href="mailto:youssef.abouyahia@e-polytechnique.ma">
-  	<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:youssef.abouyahia@e-polytechnique.ma&color=3d85c6" />
+    <img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:youssef.abouyahia@e-polytechnique.ma&color=3d85c6" />
   </a>
   <span> | </span>
     <a href="https://www.linkedin.com/in/youssef-abouyahia/">
