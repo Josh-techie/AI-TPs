@@ -4,11 +4,11 @@
 
 # Python Basics Learning Repository
 
-This repository is dedicated to learning the basics of Python. The exercises are contained in the file [Assignment_1.ipynb](./Assignment_1.ipynb). I'm using Google Colab for these exercises to familiarize myself with it, as I'll be using it extensively in future for machine learning tasks and model training. 
+This repository is dedicated to learning the basics of Python. The exercises are contained in the file [Assignment_1.ipynb](./Assignment_1.ipynb). I'm using Google Colab for these exercises to familiarize myself with it, as I'll be using it extensively in future for machine learning tasks and model training.
 
 Why Google Colab? It provides a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
 
-The [Python Notes](./Python Notes.pdf) included in this repository are my personal notes that I took while learning Python.
+The <a href="/Python-Basics/Python Notes.pdf" class="image fit"><img src="https://th.bing.com/th/id/OIP.dJToM1TiZiJA0GYwzDHwjQHaHY?rs=1&pid=ImgDetMain" alt=""></a> included in this repository are my personal notes that I took while learning Python.
 
 ---
 
