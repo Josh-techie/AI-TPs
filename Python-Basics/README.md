@@ -10,7 +10,7 @@
 
 ---
 
-<h2> Editor used </h2>
+<h1> Editor used </h1>
 
 ### [Google Colaboratory](https://colab.research.google.com/): Colaboratory, or Colab for short, is a Google Research product, which allows developers to write and execute Python code through their browser.
 
@@ -24,6 +24,12 @@
 - Free GPU and TPU Use
 
 > As I'm venturing into the field of machine learning, it's crucial to familiarize myself with tools like Google Colab. It's an excellent platform for collaboration and model training, making it an indispensable tool for any machine learning practitioner.
+
+---
+
+<h1> Exercises </h1>
+
+Feel free to refer to [Assignment_1](./Assignment_1.ipynb) to review the tasks and my proposed solutions. They are presented in a Jupyter Notebook format for easy understanding and replication.
 
 ---
 
