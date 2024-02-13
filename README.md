@@ -8,7 +8,7 @@
 
 ---
 
-## Content table
+# Content table
 
 - [Basics-Python](./Basics-Python/)
 - [Gaming Algorithms](./Gaming_Algorithms/)
@@ -16,7 +16,7 @@
 
 ---
 
-## Author
+# Author
 
 - [`@Josh-techie`]() | Software Engineer Student
 
