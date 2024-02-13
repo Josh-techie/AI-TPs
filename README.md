@@ -10,6 +10,10 @@
 
 ## Content table
 
+- [Python Basics](./Python-Basics/)
+- [Gaming Algorithms](./Gaming_Algorithms/)
+- [Machine Learning](./Machine_Learning/)
+
 ---
 
 ## Author
