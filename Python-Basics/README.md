@@ -35,7 +35,7 @@
 
 <h1> Learnings & Notes </h1>
 
-- In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's the PDF of my notes <a href="Python Notes.pdf" class="image fit"><img src="https://icons.iconarchive.com/icons/gartoon-team/gartoon-apps/48/mathematica-explosion-icon.png" alt="" width="20"></a> Python-Notes</a>
+- In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's the PDF of my notes <a href="Python Notes.pdf" class="image fit"><img src="https://icons.iconarchive.com/icons/gartoon-team/gartoon-apps/48/mathematica-explosion-icon.png" alt="" width="20" height="20"></a> Python-Notes</a>
 
 ---
 
