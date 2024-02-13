@@ -39,8 +39,8 @@ Note: Ofc, besides there's other advantages such as `Integration with Google Dri
 
 ## Content table
 
-- [Exercise 1: Regression Linear]()
-- [Exercise 2: Classification with Random Forest]()
+- [Exercise 1: Linear Regression](./Exercice_1/)
+- [Exercise 2: Classification with Random Forest](./Exercice_2/)
 - [Exercise 3: Image Classification]()
 
 ---
