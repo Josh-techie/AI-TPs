@@ -8,7 +8,7 @@ This repository is dedicated to learning the basics of Python. The exercises are
 
 Why Google Colab? It provides a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
 
-The <a href="/Python-Basics/Python Notes.pdf" class="image fit"><img src="https://th.bing.com/th/id/OIP.dJToM1TiZiJA0GYwzDHwjQHaHY?rs=1&pid=ImgDetMain" alt=""></a> included in this repository are my personal notes that I took while learning Python.
+The <a href="/Python-Basics/Python Notes.pdf" class="image fit"><img src="https://icons.iconarchive.com/icons/gartoon-team/gartoon-apps/256/mathematica-explosion-icon.png" alt=""></a> included in this repository are my personal notes that I took while learning Python.
 
 ---
 
