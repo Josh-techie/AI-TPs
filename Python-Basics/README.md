@@ -17,10 +17,11 @@
 - I'll be using Google Colab for these exercises. You may be wondering the `Why Google Colab?`. Well It's a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
 
 > There are several reasons to opt to use Google Colab instead of a plain files:
-  - Pre-Installed Libraries
-  - Saved on the Cloud
-  -  Collaboration
-  -  Free GPU and TPU Use
+
+- Pre-Installed Libraries
+- Saved on the Cloud
+- Collaboration
+- Free GPU and TPU Use
 
 > As I'm venturing into the field of machine learning, it's crucial to familiarize myself with tools like Google Colab. It's an excellent platform for collaboration and model training, making it an indispensable tool for any machine learning practitioner.
 
@@ -28,11 +29,7 @@
 
 <h1> Learnings & Notes </h1>
 
-In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, from the basics of Python to more complex concepts.
-
-Here's the PDF of my notes. Feel free to check it out!
-
-<a href="Python Notes.pdf" class="image fit"><img src="https://icons.iconarchive.com/icons/gartoon-team/gartoon-apps/48/mathematica-explosion-icon.png" alt="" width="20"></a>
+- In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's the PDF of my notes <a href="Python Notes.pdf"> Python-Notes</a>
 
 ---
 
