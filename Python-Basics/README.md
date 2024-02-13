@@ -29,7 +29,7 @@
 
 <h1> Exercises </h1>
 
-Feel free to refer to [Assignment_1](./Assignment_1.ipynb) to review the tasks and my proposed solutions. They are presented in a Jupyter Notebook format for easy understanding and replication.
+- Feel free to refer to [Assignment_1](./Assignment_1.ipynb) to review the tasks and my proposed solutions. They are presented in a Jupyter Notebook format for easy understanding and replication.
 
 ---
 
