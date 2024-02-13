@@ -14,7 +14,7 @@
 
 ### [Google Colaboratory](https://colab.research.google.com/): Colaboratory, or Colab for short, is a Google Research product, which allows developers to write and execute Python code through their browser.
 
-- I'll be using Google Colab for these exercises. You may be wondering the `Why Google Colab?`. Well It's a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text. 
+- I'll be using Google Colab for these exercises. You may be wondering the `Why Google Colab?`. Well It's a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
 
 > There are several reasons to opt to use Google Colab instead of a plain files:
   - Pre-Installed Libraries
@@ -26,11 +26,17 @@
 
 ---
 
-<a href="Python Notes.pdf" class="image fit"><img src="https://icons.iconarchive.com/icons/gartoon-team/gartoon-apps/48/mathematica-explosion-icon.png" alt=""></a>
+<h1> Learnings & Notes </h1>
+
+In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, from the basics of Python to more complex concepts.
+
+Here's the PDF of my notes. Feel free to check it out!
+
+<a href="Python Notes.pdf" class="image fit"><img src="https://icons.iconarchive.com/icons/gartoon-team/gartoon-apps/48/mathematica-explosion-icon.png" alt="" width="20"></a>
 
 ---
 
-## Author
+<h1> Author </h1>
 
 - [`@Josh-techie`](https://github.com/Josh-techie) | Software Engineer Student
 
