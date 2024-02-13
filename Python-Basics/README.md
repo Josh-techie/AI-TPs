@@ -12,7 +12,7 @@
 
 <h1> Editor used </h1>
 
-### [Google Colaboratory](https://colab.research.google.com/): Colaboratory, or Colab for short, is a Google Research product, which allows developers to write and execute Python code through their browser.
+> ### [Google Colaboratory](https://colab.research.google.com/): Colaboratory, or Colab for short, is a Google Research product, which allows developers to write and execute Python code through their browser.
 
 - I'll be using Google Colab for these exercises. You may be wondering the `Why Google Colab?`. Well It's a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
 
