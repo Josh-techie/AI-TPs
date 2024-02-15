@@ -34,11 +34,9 @@ This directory contains an implementation of a Tic-Tac-Toe game based on the Min
 
 3. The game window will appear, allowing you to play against the AI.
 
-> Or you can Explore simply by refering to `dist` and then click to execute the `Tic-Tac-Toe` file.
-
 ---
 
-### Usage
+## Usage
 
 ---
 
