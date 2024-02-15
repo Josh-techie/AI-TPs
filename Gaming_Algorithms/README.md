@@ -38,6 +38,11 @@ This directory contains an implementation of a Tic-Tac-Toe game based on the Min
 
 ## Usage
 
+- Refer to this screen, to play the game
+<p align="center">
+<img src ="https://deadpan-toaster-f25.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2F9f3f06d4-0699-48c7-8d69-c4c4a24b8f48%2FUntitled.png?table=block&id=ac61a8a8-7b5d-4b62-95ce-093d93dab8aa&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=&cache=v2">
+</p>
+
 ---
 
 ### Customization

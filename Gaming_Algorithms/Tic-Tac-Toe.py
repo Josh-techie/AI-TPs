@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import messagebox
 from min_max import minmax, evaluate, game_over, get_children
 
 
@@ -7,25 +6,35 @@ class TicTacToeGUI:
     def __init__(self, root):
         self.root = root
         self.root.title("Tic-Tac-Toe")
-        self.current_player = 'X'
-        self.board = [' ']*9
+        self.current_player = "X"
+        self.board = [" "] * 9
 
         # Set background color for the buttons
-        button_bg_color = '#A9A9A9'  # Change to your desired color
+        button_bg_color = "#00FFFF"
 
-        # Use a dictionary to store the styles for different players
-        self.styles = {'X': ('normal', 20, 'blue'), 'O': ('normal', 20, 'red'), ' ': ('normal', 16, button_bg_color)}
-
-        self.buttons = [tk.Button(root, text=' ', font=self.styles[' '], width=6, height=3, command=lambda i=i: self.on_click(i), bg=button_bg_color) for i in range(9)]
+        self.buttons = [
+            tk.Button(
+                root,
+                text=" ",
+                font=("normal", 20),
+                width=6,
+                height=3,
+                command=lambda i=i: self.on_click(i),
+                bg=button_bg_color,
+            )
+            for i in range(9)
+        ]
 
         for i, button in enumerate(self.buttons):
             row, col = divmod(i, 3)
             button.grid(row=row, column=col)
 
     def on_click(self, index):
-        if self.board[index] == ' ' and not game_over(self.board):
+        if self.board[index] == " " and not game_over(self.board):
             self.board[index] = self.current_player
-            self.buttons[index].config(text=self.current_player, font=self.styles[self.current_player], state=tk.DISABLED)  # Disable the button after it's clicked
+            self.buttons[index].config(
+                text=self.current_player, state=tk.DISABLED
+            )  # Disable the button after it's clicked
             if game_over(self.board):
                 self.display_winner()
             else:
@@ -33,32 +42,34 @@ class TicTacToeGUI:
                 self.ai_move()
 
     def switch_player(self):
-        self.current_player = 'O' if self.current_player == 'X' else 'X'
+        self.current_player = "O" if self.current_player == "X" else "X"
 
     def ai_move(self):
         if not game_over(self.board):
             best_move = self.get_best_move()
             self.board[best_move] = self.current_player
-            self.buttons[best_move].config(text=self.current_player, font=self.styles[self.current_player], state=tk.DISABLED)  # Disable the button after AI move
+            self.buttons[best_move].config(
+                text=self.current_player, state=tk.DISABLED
+            )  # Disable the button after AI move
             if game_over(self.board):
                 self.display_winner()
             else:
                 self.switch_player()
 
     def get_best_move(self):
-        best_value = -float('inf')
+        best_value = -float("inf")
         best_move = -1
 
         for i, cell in enumerate(self.board):
-            if cell == ' ':
-                self.board[i] = 'X'  # Assume AI is 'X' for evaluation
+            if cell == " ":
+                self.board[i] = "X"  # Assume AI is 'X' for evaluation
                 move_value = minmax(self.board, 3, False)  # You may adjust the depth
 
                 if move_value > best_value:
                     best_value = move_value
                     best_move = i
 
-                self.board[i] = ' '
+                self.board[i] = " "
                 # Reset the cell for further exploration
 
         return best_move
@@ -72,9 +83,9 @@ class TicTacToeGUI:
         else:
             winner_str = "It's a draw!"
 
-        # Display winner in GUI using messagebox
-        messagebox.showinfo("Game Over", winner_str)
+        tk.messagebox.showinfo("Game Over", winner_str)
         self.root.destroy()
+
 
 if __name__ == "__main__":
     root = tk.Tk()
