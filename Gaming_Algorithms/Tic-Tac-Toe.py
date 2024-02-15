@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import messagebox
 from min_max import minmax, evaluate, game_over, get_children
 
 
@@ -9,7 +10,13 @@ class TicTacToeGUI:
         self.current_player = 'X'
         self.board = [' ']*9
 
-        self.buttons = [tk.Button(root, text=' ', font=('normal', 20), width=6, height=3, command=lambda i=i: self.on_click(i)) for i in range(9)]
+        # Set background color for the buttons
+        button_bg_color = '#A9A9A9'  # Change to your desired color
+
+        # Use a dictionary to store the styles for different players
+        self.styles = {'X': ('normal', 20, 'blue'), 'O': ('normal', 20, 'red'), ' ': ('normal', 16, button_bg_color)}
+
+        self.buttons = [tk.Button(root, text=' ', font=self.styles[' '], width=6, height=3, command=lambda i=i: self.on_click(i), bg=button_bg_color) for i in range(9)]
 
         for i, button in enumerate(self.buttons):
             row, col = divmod(i, 3)
@@ -18,7 +25,7 @@ class TicTacToeGUI:
     def on_click(self, index):
         if self.board[index] == ' ' and not game_over(self.board):
             self.board[index] = self.current_player
-            self.buttons[index].config(text=self.current_player)
+            self.buttons[index].config(text=self.current_player, font=self.styles[self.current_player], state=tk.DISABLED)  # Disable the button after it's clicked
             if game_over(self.board):
                 self.display_winner()
             else:
@@ -32,7 +39,7 @@ class TicTacToeGUI:
         if not game_over(self.board):
             best_move = self.get_best_move()
             self.board[best_move] = self.current_player
-            self.buttons[best_move].config(text=self.current_player)
+            self.buttons[best_move].config(text=self.current_player, font=self.styles[self.current_player], state=tk.DISABLED)  # Disable the button after AI move
             if game_over(self.board):
                 self.display_winner()
             else:
@@ -65,7 +72,8 @@ class TicTacToeGUI:
         else:
             winner_str = "It's a draw!"
 
-        tk.messagebox.showinfo("Game Over", winner_str)
+        # Display winner in GUI using messagebox
+        messagebox.showinfo("Game Over", winner_str)
         self.root.destroy()
 
 if __name__ == "__main__":
