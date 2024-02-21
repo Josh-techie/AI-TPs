@@ -2,7 +2,9 @@
 <img src ="https://i.pinimg.com/originals/37/c6/20/37c620871c6cdbc6063792a82df38d46.jpg">
 </p>
 <p aling="center">
-> Since I'm a big fan Of Sword Art online this is in memorial to Sachi.
+
+> Since I'm a big fan Of [Sword Art online](https://en.wikipedia.org/wiki/Sword_Art_Online) this is in memorial to Sachi (Weirdo I know 😂).
+
 </p>
 
 <h2> Overview : Chrismas Tree Printer </h2>
