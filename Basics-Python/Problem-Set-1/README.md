@@ -25,15 +25,7 @@ The Christmas tree will be formed using asterisks ('\*'). The number of stars in
 
 1- **Create the Python File** : Create a new Python file for your Christmas tree function. You can name it `christmas_tree.py`.
 2- **Implement the Christmas Tree Function** : Open `christmas_tree.py` and implement the function to print the Christmas tree.
-3- **Test Your Christmas Tree Printer** : Below your function, add a few lines to test your Christmas tree printer. For example:
-
-```python
-if __name__ == "__main__":
-    tree_length = int(input("Enter the length of the tree: "))  # User input for tree length
-    print_christmas_tree(tree_length)
-```
-
-4- **Run the Script** : Run your script to see the magic happen:
+3- **Run the Script** : Run your script to see the magic happen:
 
 ```bash
 python christmas_tree.py
