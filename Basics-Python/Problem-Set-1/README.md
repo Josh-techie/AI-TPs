@@ -31,7 +31,7 @@ The Christmas tree will be formed using asterisks ('\*'). The number of stars in
 
 3 - **Run the Script** : Run your script to see the magic happen:
 
-    ```bash
+    ```
     python christmas_tree.py
     ```
 
