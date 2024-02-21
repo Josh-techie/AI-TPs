@@ -31,9 +31,7 @@ The Christmas tree will be formed using asterisks ('\*'). The number of stars in
 
 3 - **Run the Script** : Run your script to see the magic happen:
 
-    ```
     python christmas_tree.py
-    ```
 
 4 - **Compare your solution with mine** : Now, take a moment to compare your solution with the provided one. Explore the differences and similarities, and consider alternative ways to implement the same solution. Learning from different approaches can broaden your understanding of Python and programming concepts.
 
