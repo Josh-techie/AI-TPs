@@ -14,7 +14,7 @@
 
 > ### [Google Colaboratory](https://colab.research.google.com/): Colaboratory, or Colab for short, is a Google Research product, which allows developers to write and execute Python code through their browser.
 
-- I'll be using Google Colab for these exercises. You may be wondering the `Why Google Colab?`. Well It's a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
+- I'll be using Google Colab along with `vscode` for `problem sets` for these exercises. You may be wondering the `Why Google Colab?`. Well It's a powerful platform that combines Python, rich text, and the ability to add and run code snippets. It's also great for sharing, as you can include live code, equations, visualizations, and narrative text.
 
 > There are several reasons to opt to use Google Colab instead of a plain files:
 
@@ -33,9 +33,18 @@
 
 ---
 
+<h1> Problem Sets </h1>
+
+- [Chrismas Tree Printer](./Problem-Set-1/) : Prints a Christmas tree based on the specified number of branches (length of the tree).
+
+---
+
 <h1> Learnings & Notes </h1>
 
-- In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's a summary of my notes <a href="./Python_Notes.pdf"> Python Notes</a>  if it doesn't want to open, try downloading it. 😁</a>
+- In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's a summary of my notes :
+
+  - <a href="./Python_Notes.pdf"> Python-Basics</a>
+  - <a href="./Python_Notes.pdf"> Python-OOP</a>
 
 ---
 
