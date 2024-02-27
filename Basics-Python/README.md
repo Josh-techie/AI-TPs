@@ -29,7 +29,9 @@
 
 <h1> Exercises </h1>
 
-- Feel free to refer to [Assignment_1](./Assignment_1.ipynb) to review the tasks and my proposed solutions. They are presented in a Jupyter Notebook format for easy understanding and replication.
+- Feel free to refer to my assignments to review the tasks and my proposed solutions. They are presented in a Jupyter Notebook format for easy understanding and replication.
+  - [Assignment_1](./Assignment_1.ipynb) : Serves as an assignment for python introduction.
+  - [Assignment_2](./Assignment_2.ipynb) : Tuples, Listes, sets, Slicing and file manipulation
 
 ---
 
@@ -41,7 +43,7 @@
 
 <h1> Learnings & Notes </h1>
 
-- In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's a summary of my notes :
+- In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's a summary of my notes (if it doesn't open in github just download he `PDF` file) :
 
   - <a href="./Python_Notes.pdf"> Python-Basics</a>
   - <a href="./Python_Notes.pdf"> Python-OOP</a>
