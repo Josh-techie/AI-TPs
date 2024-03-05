@@ -55,7 +55,7 @@
 
 <h2> Real World Scenario </h2>
 
-- In this part, I'll be manipulating a databse entitled `imdb.csv` which is a collection of movie data from the popular movie database, IMDb. Each row in the database represents a unique movie, with various details about each movie provided in the columns.
+- In this part, I'll be manipulating a databse entitled [`imdb.csv`](./imdb.csv) which is a collection of movie data from the popular movie database, IMDb. Each row in the database represents a unique movie, with various details about each movie provided in the columns.
 
 **The columns in the database are as follows:**
 
@@ -72,6 +72,6 @@
 - `Revenue (Millions)`: The revenue of the movie in millions of dollars.
 - `Metascore`: The Metascore rating of the movie.
 
-- From this database, I'll be performing the following operations: reading the database from the `CSV` file, viewing the database, obtaining information about the database using `info()`, understanding the variables, using `describe()` to get statistical summaries, examining relationships between continuous variables with `corr()`, slicing, selecting, and extracting data from the DataFrame, conditionally selecting data, applying functions to the DataFrame, sorting values, combining data through merging, joining, and concatenating, and grouping data for analysis.
+> From this database, I'll be performing the following operations: reading the database from the `CSV` file, viewing the database, obtaining information about the database using `info()`, understanding the variables, using `describe()` to get statistical summaries, examining relationships between continuous variables with `corr()`, slicing, selecting, and extracting data from the DataFrame, conditionally selecting data, applying functions to the DataFrame, sorting values, combining data through merging, joining, and concatenating, and grouping data for analysis.
 
-> Don't it seems like a lot, but we'll understand this step by step in our code, refer to [imdb_manipulation](./imdb_manipulation.py) and the databse can be found [imdb.csv](./imdb.csv)
+**Don't it seems like a lot, but we'll understand this step by step in our code, refer to [imdb_manipulation](./imdb_manipulation.py) and the databse can be found [imdb.csv](./imdb.csv)**
