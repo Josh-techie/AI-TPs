@@ -30,8 +30,18 @@
 <h1> Exercises </h1>
 
 - Feel free to refer to my assignments to review the tasks and my proposed solutions. They are presented in a Jupyter Notebook format for easy understanding and replication.
-  - [Assignment_1](./Assignment_1.ipynb) : Serves as an assignment for python introduction.
-  - [Assignment_2](./Assignment_2.ipynb) : Tuples, Listes, sets, Slicing and file manipulation
+
+> If the code is not previewable in GitHub, there's a second link directly to the Google Colab Notebook
+
+- [Assignment_1](./Assignment_1.ipynb) : Introduction to python sythax with variable assignment, printing, grtting user input, conditionnals, lists, indexing, looping, slicing negative indexing, reversed string.
+- [Assignment_2](./Assignment_2.ipynb) : Tuples, Listes, sets, Slicing and file manipulation
+- [Assignment_3](./Assignment_3.ipynb) : Classes, OOP, Operator Overloading, Function Overloading, Inheritance, Class Instanciation, Numpy, Matrix Creation, Array Operation.
+
+| FileName     | Repo Reference               | Google Colab Link                                                                                               | Keywords                                                                                                                                                    |
+| ------------ | ---------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Assignment_1 | [Link](./Assignment_1.ipynb) | [Assignment_1](https://colab.research.google.com/drive/11laYAGesrwZVyar0urZUdHk1y8JL4q7u#scrollTo=H21T-pD-pPFI) | Introduction, Python syntax, Variable assignment, Printing, User input, Conditionals, Lists, Indexing, Looping, Slicing, Negative indexing, Reversed string |
+| Assignment_2 | [Link](./Assignment_2.ipynb) | [Assignment_2](https://colab.research.google.com/drive/1KaBnpG7aHG24SxRW6UyP0ejngAbmJBnf)                       | Tuples, Lists, Sets, Slicing, File manipulation                                                                                                             |
+| Assignment_3 | [Link](./Assignment_3.ipynb) | [Assignment_3](https://colab.research.google.com/drive/1zw7yxs23TC_2LW_nC2w71sh5ohcNBiAt)                       | Classes, OOP, Operator Overloading, Function Overloading, Inheritance, Class instantiation, Numpy, Matrix Creation, Array Operation                         |
 
 ---
 
