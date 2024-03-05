@@ -28,3 +28,6 @@
 <img src ="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2Ffc12b35d-334f-4e1e-9e3d-df604ee236fd%2FUntitled.png?table=block&id=9dfd9b48-e232-4066-a773-1260ac7e2129&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2">
 </p>
 <p aling="center">
+
+### Creating Our DataFrame
+
