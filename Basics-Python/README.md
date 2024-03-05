@@ -33,9 +33,6 @@
 
 > If the code is not previewable in GitHub, there's a second link directly to the Google Colab Notebook
 
-- [Assignment_1](./Assignment_1.ipynb) : Introduction to python sythax with variable assignment, printing, grtting user input, conditionnals, lists, indexing, looping, slicing negative indexing, reversed string.
-- [Assignment_2](./Assignment_2.ipynb) : Tuples, Listes, sets, Slicing and file manipulation
-- [Assignment_3](./Assignment_3.ipynb) : Classes, OOP, Operator Overloading, Function Overloading, Inheritance, Class Instanciation, Numpy, Matrix Creation, Array Operation.
 
 | FileName     | Repo Reference                      | Google Colab Link                                                                                               | Keywords                                                                                                                                                    |
 | ------------ | ----------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
