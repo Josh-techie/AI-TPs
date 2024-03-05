@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://miro.medium.com/v2/resize:fit:1200/0*zufwff95psHKtNxZ.png">
+<img src ="https://th.bing.com/th/id/OIP.n_ms1q5YoHAQXXUIfeADKQHaDG?rs=1&pid=ImgDetMain">
 </p>
 <p aling="center">
 
@@ -42,10 +42,10 @@
 
 ### Pandas provides several functions to read data from different file formats. For example:
 
-`pd.read_csv(filename)` is used to read data from a CSV file.
-`pd.read_excel(filename)` is used to read data from an Excel file.
-`pd.read_sql(query, connection_object)` is used to read data from a SQL table/database.
-`pd.read_json(json_string)` is used to read data from a JSON formatted string, URL or file.
+- `pd.read_csv(filename)` is used to read data from a CSV file.
+- `pd.read_excel(filename)` is used to read data from an Excel file.
+- `pd.read_sql(query, connection_object)` is used to read data from a SQL table/database.
+- `pd.read_json(json_string)` is used to read data from a JSON formatted string, URL or file.
 
 > Once the data is loaded into a DataFrame, you can use pandas' powerful data manipulation and analysis capabilities on it.
 
