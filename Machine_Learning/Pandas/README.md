@@ -22,12 +22,16 @@
 
 <h2> DataFrames </h2>
 
-- A dataframe is a two-dimensional, size-mutable, and heterogeneous tabular data structure with labeled axes (rows and columns). It is commonly used in data manipulation and analysis. In simple terms, you can think of a dataframe as a table where each column contains data of the same type, and each row represents a unique set of values. Refer to [DataFrames](./pandasIntro.py) for the implementation , where we will be implementing this DataFrame.
+- A dataframe is a two-dimensional, size-mutable, and heterogeneous tabular data structure with labeled axes (rows and columns). It is commonly used in data manipulation and analysis. In simple terms, you can think of a dataframe as a table where each column contains data of the same type, and each row represents a unique set of values. Refer to [DataFrames](./DataFrames.py) for the implementation , where we will be implementing this DataFrame.
 
 <p align="center">
 <img src ="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2Ffc12b35d-334f-4e1e-9e3d-df604ee236fd%2FUntitled.png?table=block&id=9dfd9b48-e232-4066-a773-1260ac7e2129&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2">
 </p>
-<p aling="center">
 
-### Creating Our DataFrame
+> You can also create a customed DataFrame for your data in pandas, as this will allow you to structure and organize your data in a way that suits your specific needs and analysis requirements, Refer [DataFrames](./DataFrames.py)
 
+---
+
+<h2> Reading Data </h2>
+
+-
