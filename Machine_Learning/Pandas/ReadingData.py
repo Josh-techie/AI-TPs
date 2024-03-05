@@ -2,12 +2,13 @@
 
 import pandas as pd
 
-# read the data
+#################### READING DATA FROM CSV FILE ####################
+
 data = pd.read_csv("data.csv")  # yeah as simple as that 😀
 
 # but wait how do I know if the data was read correctly?
 # let's print the first 5 rows of the data
-print(data.head())
+# print(data.head())
 
 # if you run the code you can see it's all good.
 
@@ -20,6 +21,11 @@ print(data.head())
 data1 = pd.read_csv("data1.csv", sep=";")
 # here to print and this time we'll print the first 10 rows\
 # just getting acquainted with head() method
-print(data1.head(5))
+# print(data1.head(6))
 # or print the whole thing
-print(data1)
+# print(data1)
+
+# #################### READING DATA FROM JSON FILE ####################
+
+data2 = pd.read_json("data.json")
+print(data2)
