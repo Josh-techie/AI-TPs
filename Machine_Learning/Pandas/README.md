@@ -74,4 +74,4 @@
 
 > From this database, I'll be performing the following operations: reading the database from the `CSV` file, viewing the database, obtaining information about the database using `info()`, understanding the variables, using `describe()` to get statistical summaries, examining relationships between continuous variables with `corr()`, slicing, selecting, and extracting data from the DataFrame, conditionally selecting data, applying functions to the DataFrame, sorting values, combining data through merging, joining, and concatenating, and grouping data for analysis.
 
-**Don't it seems like a lot, but we'll understand this step by step in our code, refer to [imdb_manipulation](./imdb_manipulation.py) and the databse can be found [imdb.csv](./imdb.csv)**
+**Doesn't it seems like a lot 😥, don't worry I got you I got you 😁 we'll understand this step by step in our code, refer to [imdb_manipulation](./imdb_manipulation.py) and the databse can be found [imdb.csv](./imdb.csv) and follow along 😋**
