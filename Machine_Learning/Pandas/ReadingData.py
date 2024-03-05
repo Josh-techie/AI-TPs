@@ -3,11 +3,11 @@
 import pandas as pd
 
 # read the data
-# data = pd.read_csv("data.csv")  # yeah as simple as that 😀
+data = pd.read_csv("data.csv")  # yeah as simple as that 😀
 
-# # but wait how do I know if the data was read correctly?
-# # let's print the first 5 rows of the data
-# print(data.head())
+# but wait how do I know if the data was read correctly?
+# let's print the first 5 rows of the data
+print(data.head())
 
 # if you run the code you can see it's all good.
 
