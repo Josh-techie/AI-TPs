@@ -28,4 +28,7 @@ data1 = pd.read_csv("data1.csv", sep=";")
 # #################### READING DATA FROM JSON FILE ####################
 
 data2 = pd.read_json("data.json")
-print(data2)
+# print(data2)
+
+# or use tail() method to print the last 5 rows
+print(data2.tail())

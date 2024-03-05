@@ -50,3 +50,28 @@
 > Once the data is loaded into a DataFrame, you can use pandas' powerful data manipulation and analysis capabilities on it.
 
 ## Let's try reading data from files, we'll be manipulating `csv` and `json` as examples, refer to [ReadingData](./ReadingData.py)
+
+---
+
+<h2> Real World Scenario </h2>
+
+- In this part, I'll be manipulating a databse entitled `imdb.csv` which is a collection of movie data from the popular movie database, IMDb. Each row in the database represents a unique movie, with various details about each movie provided in the columns.
+
+**The columns in the database are as follows:**
+
+- `Rank`: The rank of the movie.
+- `Title`: The title of the movie.
+- `Genre`: The genre(s) of the movie, which can include multiple genres separated by commas.
+- `Description`: A brief description or synopsis of the movie.
+- `Director`: The director of the movie.
+- `Actors`: The main actors in the movie, listed as a comma-separated list.
+- `Year`: The year the movie was released.
+- `Runtime (Minutes)`: The length of the movie in minutes.
+- `Rating`: The IMDb rating of the movie.
+- `Votes`: The number of votes the movie received.
+- `Revenue (Millions)`: The revenue of the movie in millions of dollars.
+- `Metascore`: The Metascore rating of the movie.
+
+- From this database, I'll be performing the following operations: reading the database from the `CSV` file, viewing the database, obtaining information about the database using `info()`, understanding the variables, using `describe()` to get statistical summaries, examining relationships between continuous variables with `corr()`, slicing, selecting, and extracting data from the DataFrame, conditionally selecting data, applying functions to the DataFrame, sorting values, combining data through merging, joining, and concatenating, and grouping data for analysis.
+
+> Don't it seems like a lot, but we'll understand this step by step in our code, refer to [imdb_manipulation](./imdb_manipulation.py) and the databse can be found [imdb.csv](./imdb.csv)
