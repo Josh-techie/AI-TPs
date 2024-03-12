@@ -4,21 +4,25 @@
 
 > AI Image for reference to theme at hand
 
-# About:
+<h2> About </h2>
 
 - Here, I'll be sharing my learning journey in the field of artificial intelligence as a college student. This is where I'll document and showcase projects, code snippets, and materials from my AI course at university.
 
 ---
 
-# Content table
+<h2> Content table </h2>
+
+- To fully understand the content of this repository, it is essential to follow the order presented, as it progressively increases in difficulty and covers some subjects that are prerequisites for others.
 
 - [Basics-Python](./Basics-Python/)
+- [Web Scraping](./Web_Scraping/)
+- [API](./API/)
 - [Gaming Algorithms](./Gaming_Algorithms/)
 - [Machine Learning](./Machine_Learning/)
 
 ---
 
-# Author
+<h2> Author </h2>
 
 - [`@Josh-techie`]() | Software Engineer Student
 
