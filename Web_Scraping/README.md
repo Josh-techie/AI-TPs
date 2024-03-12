@@ -14,7 +14,7 @@
 
 - In this part I'll be using Beautiful Soup (bs4) which is a Python library used for web scraping and parsing HTML and XML documents. It is a powerful tool for extracting data from websites. To use Beautiful Soup for web scraping, you need to follow these steps:
 
-1. Install Required Libraries :
+1. **Install Required Libraries** :
 
 ```python
 pip install html5lib
@@ -24,11 +24,19 @@ pip install requests
 pip install bs4
 ```
 
-2. Access HTML Content: Send an HTTP request to the webpage you want to scrape using the requests library in Python
+2. **Access HTML Content**: Send an HTTP request to the webpage you want to scrape using the requests library in Python
 
-3. Parse HTML Content : Using bs4 (Beautiful soup), which creates a parse tree for the web page based on specific criteria, allowing you to extract, navigate, search, and modify data from HTML)
+3. **Parse HTML Content** : Using bs4 (Beautiful soup), which creates a parse tree for the web page based on specific criteria, allowing you to extract, navigate, search, and modify data from HTML)
 
-4. Search and Navigate: Once you have parsed the HTML content, you can search and navigate through the parse tree to extract the desired data programmatically
+4. **Search and Navigate**: Once you have parsed the HTML content, you can search and navigate through the parse tree to extract the desired data programmatically
+
+---
+
+<h2> Exercices </h2>
+
+- In this section, I'll be exploring how to do Web Scraping, in various methods and scenarios:
+
+  - [Web-Scraping](./Web_Scraping.ipynb): scraping [Quotes-Authors](https://quotes.toscrape.com/), which is a classic example of web scraping
 
 ---
 
