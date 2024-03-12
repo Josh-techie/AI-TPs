@@ -42,12 +42,6 @@
 
 ---
 
-<h1> Problem Sets </h1>
-
-- [Chrismas Tree Printer](./Problem-Set-1/) : Prints a Christmas tree based on the specified number of branches (length of the tree).
-
----
-
 <h1> Learnings & Notes </h1>
 
 - In my journey of learning Python, I've taken detailed notes to help me consolidate my understanding and serve as a quick reference. These notes cover various topics, here's a summary of my notes (if it doesn't open in github just download he `PDF` file) :
