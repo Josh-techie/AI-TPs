@@ -14,11 +14,12 @@
 
 - To fully understand the content of this repository, it is essential to follow the order presented, as it progressively increases in difficulty and covers some subjects that are prerequisites for others.
 
-- [Basics-Python](./Basics-Python/)
-- [Web Scraping](./Web_Scraping/)
-- [API](./API/)
-- [Gaming Algorithms](./Gaming_Algorithms/)
-- [Machine Learning](./Machine_Learning/)
+  - [Basics-Python](./Basics-Python/)
+  - [File Manipulation](./File_Manipulation/)
+  - [Web Scraping](./Web_Scraping/)
+  - [API](./API/)
+  - [Gaming Algorithms](./Gaming_Algorithms/)
+  - [Machine Learning](./Machine_Learning/)
 
 ---
 
