@@ -16,6 +16,37 @@
 
   - [Data-Cleaning](./Data_Cleaning.ipynb): Create dataframe, create a new column in a df, or delete it. Populate a newly added column, replace a value in a df.
     > You can access it directly in google colab at this link: [Google-Colab-Data-Cleaning](https://colab.research.google.com/drive/1yppmGDxaOKZZq1eRsWxk-BFM9aEpk2fM?usp=sharing)
+  - [Levenshtein-Distance]():  Here is a simple explanation of the Levenshtein Distance algorithm:
+
+**The Levenshtein Distance** algorithm calculates the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into another. It works like this:
+
+- **Take two words/strings as input**
+- **Compare the characters of both strings one by one**
+- **If the characters are the same, go to the next pair**
+- **If the characters are different, it's an edit**
+- **An edit can be an insertion, deletion or substitution of a character**
+- **Count each difference as 1 edit**
+- **Keep track of the minimum number of edits needed**
+- **Go through all possible edit scenarios**
+- **The lowest count of edits is the Levenshtein Distance**
+
+> Example:
+```
+Strings: kitten, sitting
+
+Compare k vs s -> difference, 1 edit  
+Compare i vs i -> same, no edit
+Compare t vs t -> same, no edit  
+Compare t vs i -> difference, 1 more edit
+Compare e vs t -> difference, 1 more edit 
+Compare n vs n -> same, no edit
+Compare vs g -> difference, 1 more edit
+
+Minimum edits needed is 3 (substitution, insertion, substitution)
+So Levenshtein Distance between the words is 3
+```
+
+> In simple terms, it finds the minimum number of single-character changes required to transform one word into another. This gives a measure of difference between strings.
 
 ---
 
