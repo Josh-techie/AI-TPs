@@ -15,6 +15,7 @@
 - In this section, I'll be exploring some data cleaning techniques, summarized in the following exercices:
 
   - [Data-Cleaning](./Data_Cleaning.ipynb): Create dataframe, create a new column in a df, or delete it. Populate a newly added column, replace a value in a df.
+    > You can access it directly in google colab at this link: [Google-Colab-Data-Cleaning](https://colab.research.google.com/drive/1yppmGDxaOKZZq1eRsWxk-BFM9aEpk2fM?usp=sharing)
 
 ---
 
