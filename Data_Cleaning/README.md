@@ -20,7 +20,6 @@
 - Here, we will be discussing the Levenshtein-Distance ALgorithm, below you'll find a simple explanation of the Levenshtein Distance algorithm:
 
 **The Levenshtein Distance** algorithm calculates the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into another. It works like this:
-
     - **Take two words/strings as input**
     - **Compare the characters of both strings one by one**
     - **If the characters are the same, go to the next pair**
@@ -31,7 +30,7 @@
     - **Go through all possible edit scenarios**
     - **The lowest count of edits is the Levenshtein Distance**
 
-    > Example:
+> Example:
     ```
     Strings: kitten, sitting
 
@@ -47,7 +46,7 @@
     So Levenshtein Distance between the words is 3
     ```
 
-    > In simple terms, it finds the minimum number of single-character changes required to transform one word into another. This gives a measure of difference between strings.
+> In simple terms, it finds the minimum number of single-character changes required to transform one word into another. This gives a measure of difference between strings.
 
 [Levenshtein-Distance-Algorithm-Implementation](./Levenshtein_Distance.py): Simple implementation of the algorithm with python 🌟
 
