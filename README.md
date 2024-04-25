@@ -20,6 +20,8 @@
   - [API](./API/)
   - [Gaming Algorithms](./Gaming_Algorithms/)
   - [Machine Learning](./Machine_Learning/)
+  - [Pandas](./Pandas/)
+  - [Data-Cleaning](./Data_Cleaning/)
 
 ---
 
