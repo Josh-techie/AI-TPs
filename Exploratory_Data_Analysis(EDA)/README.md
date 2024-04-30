@@ -38,7 +38,11 @@
 
 <h2> Content Table </h2>
 
-- **Exercice 1**: Use matlplotlib and seaborn to visualize data and use hue to introduce a new variable to visualize with the previous ones.
+- **Exercice 1**: Use Seaborn along with Matplotlib libraries to visualize the data in a bar plot format, demonstrating the correlation of profit with the year for a specific organization. Introduce a new variable using hue to visualize alongside the existing ones.
+
+- **Exercice 2**: Use a bar chart to display the correlation between the continent and life expectancy. Deduce your insights using a bar plot from the Seaborn library.
+
+- **Exercice 3**: Utilize the melt method in the Pandas library to reshape a DataFrame and visualize its data. Conduct a case study on the data of assists and goals between the two legends, Messi and Ronaldo. Visualize the data and make judgments based on the numbers.
 
 Each exercise will provide hands-on practice with EDA techniques, reinforcing your understanding of the concepts discussed in this repository.
 
