@@ -22,6 +22,8 @@
   - [Machine Learning](./Machine_Learning/)
   - [Pandas](./Pandas/)
   - [Data-Cleaning](./Data_Cleaning/)
+  - [Problem Sets](./Problem_Sets/)
+  - [Exploratory Data Analysis](<./Exploratory_Data_Analysis(EDA)/>)
 
 ---
 
