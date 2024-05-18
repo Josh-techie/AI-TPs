@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://th.bing.com/th/id/R.d80027ee0b8c2ae99ca66df86aef7aad?rik=yh41Xwr4pD7utg&pid=ImgRaw&r=0">
+<img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.morioh.com%2F2020%2F01%2F06%2F4d245f695904.jpg&f=1&nofb=1&ipt=282362382e7e646584db5531ada62bef80e7d2388592af30e30d2574b7bac945&ipo=images">
 </p>
 
 ---
