@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://th.bing.com/th/id/R.c0d0115876c3111513093a4b285baba1?rik=spsEbHYvpkKlvQ&pid=ImgRaw&r=0">
+<img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fcdn-uploads%2F20201223221222%2FWhat-is-Machine-Learning.jpg&f=1&nofb=1&ipt=1c930a918d5895be7f03f1ba59ec88c70125732fc2c751c81ed59fcb9df32e55&ipo=images">
 </p>
 
 ---
@@ -47,7 +47,7 @@ Note: Ofc, besides there's other advantages such as `Integration with Google Dri
 
 ## Author
 
-- [`@Josh-techie`]() | Software Engineer Student
+- [`@Josh-techie`](https://github.com/Josh-techie) | Software Engineer Student
 
   > Reach out to me if you need any help or have any questions.
 
