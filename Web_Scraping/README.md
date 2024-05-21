@@ -38,7 +38,7 @@ pip install bs4
 
   - [Web-Scraping-Quotes](./Web_Scraping.ipynb): scraping [Quotes-Authors](https://quotes.toscrape.com/), which is a classic example of web scraping (scrape Authors and Quotes 🍀)
 
-  - [Workshop-Scraping-API](./Workshop_Web_Scraping.ipynb): Conducting a web scraping to gather emergency pharmcy infration from [Glossary-Pharmacies](https://www.annuaire-gratuit.ma/) and then use the **API** [OpenWeather Map](https://openweathermap.org/) to collect informartion about the weather in those cities and then ouput the scraped with the collected info from the API and merge all that in one dataframe ⭐
+  - [Workshop-Scraping-API](./Workshop_Web_Scraping.ipynb): Conducting a web scraping to gather emergency pharmcy information from [Glossary-Pharmacies](https://www.annuaire-gratuit.ma/) and then use the **API** [OpenWeather Map](https://openweathermap.org/) to collect informartion about the weather in those cities and then ouput the scraped with the collected info from the API and merge all that in one dataframe ⭐
 
 ---
 
