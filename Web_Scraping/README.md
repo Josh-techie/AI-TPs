@@ -36,13 +36,15 @@ pip install bs4
 
 - In this section, I'll be exploring how to do Web Scraping, in various methods and scenarios:
 
-  - [Web-Scraping](./Web_Scraping.ipynb): scraping [Quotes-Authors](https://quotes.toscrape.com/), which is a classic example of web scraping
+  - [Web-Scraping-Quotes](./Web_Scraping.ipynb): scraping [Quotes-Authors](https://quotes.toscrape.com/), which is a classic example of web scraping (scrape Authors and Quotes 🍀)
+
+  - [Workshop-Scraping-API](./Workshop_Web_Scraping.ipynb): Conducting a web scraping to gather emergency pharmcy infration from [Glossary-Pharmacies](https://www.annuaire-gratuit.ma/) and then use the **API** [OpenWeather Map](https://openweathermap.org/) to collect informartion about the weather in those cities and then ouput the scraped with the collected info from the API and merge all that in one dataframe ⭐
 
 ---
 
 <h2> Author </h2>
 
-- [`@Josh-techie`]() | Software Engineer Student
+- [`@Josh-techie`](https://github.com/Josh-techie) | Software Engineer Student
 
   > Reach out to me if you need any help or have any questions.
 
