@@ -40,6 +40,8 @@ pip install bs4
 
   - [Workshop-Scraping-API](./Workshop_Web_Scraping.ipynb): Conducting a web scraping to gather emergency pharmcy information from [Glossary-Pharmacies](https://www.annuaire-gratuit.ma/) and then use the **API** [OpenWeather Map](https://openweathermap.org/) to collect informartion about the weather in those cities and then ouput the scraped with the collected info from the API and merge all that in one dataframe ⭐
 
+  > [Drug-Stores](./drug_store.py) : That was my first try into solving the problem of workshop in my **IDE**, but refer to the collab notebook which is the complete version of the workshop, even though it still has an area of improvements in a lot of aspects 🛡
+
 ---
 
 <h2> Author </h2>
