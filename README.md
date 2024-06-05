@@ -25,12 +25,13 @@
   - [Problem Sets](./Problem_Sets/)
   - [Exploratory Data Analysis](<./Exploratory_Data_Analysis(EDA)/>)
   - [Artificial Neural Networks](./Artificial%20Neural%20Networks/)
+  - [Reviewing](./Reviewing/)
 
 ---
 
 <h2> Author </h2>
 
-- [`@Josh-techie`]() | Software Engineer Student
+- [`@Josh-techie`](https://github.com/Josh-techie)| Software Engineer Student
 
   > Reach out to me if you need any help or have any questions.
 
