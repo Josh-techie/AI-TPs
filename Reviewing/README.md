@@ -2,7 +2,7 @@
 <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.brandeis.edu%2Fglobal%2Fstudent-insights%2Fimages%2Fmidterm-2.jpg&f=1&nofb=1&ipt=9b759872d35d734b91e57add3f0395345cc6196f2e0f1b145ef3464b19b685c6&ipo=images">
 </p>
 
-> Exam Time, it's a directory 🍀
+> Exam Time, it's a directory where I'll be preparing for the Upcoming exam in Data Science 🍀
 
 ---
 
@@ -13,6 +13,15 @@
 ---
 
 <h2> Content table </h2>
+
+I have the following in this directory:
+
+- [Review-Exam-2023-Joe](<./Revision_Examen_2024_(my_version).ipynb>): My version of the questions in that mock exam.
+- [Review-Exam-2023-Prof](./Correction_Revision_2024.ipynb): Teacher version of the mock up exam for 2023
+
+  > The above two documents are the same exam just different version 🐰
+
+- [Test-Intra](<./Test_Intra_DS_GC_(2024).ipynb>): This is the Intra test we did during class, has some python basics and some web scraping 🌟
 
 ---
 
