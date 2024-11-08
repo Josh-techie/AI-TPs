@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2Fd1ee9d57-ce18-49f6-8246-9b07530a898b%2FR.jpg?table=block&id=4a2b1840-1240-46dd-b6f4-2047056e941d&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2">
+<img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faxenehp.com%2Fwp-content%2Fuploads%2F2019%2F02%2F20190225_header.jpg&f=1&nofb=1&ipt=d25f4f42e7be8df90608ff0b3087cbd847087290b38df3e6ab2ced520512e479&ipo=images">
 </p>
 
 > AI Image for reference to theme at hand
